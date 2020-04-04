@@ -7,3 +7,7 @@
 ### Thursday, 2 April   
 * Leader: Ryan Terrill  
 * Paper: [Remsen, J.V. Jr. 1984. High Incidence of"Leapfrog" Pattern of Geographic Variation in Andean Birds: Implications for the Speciation Process. *Science* 224(4645), 171-173.](https://doi.org/10.1126/science.224.4645.171)  
+
+### Thursday, 9 April  
+* Leader: Anna Hiller  
+* Paper: [Remsen Jr, J.V., 1985. Community organization and ecology of birds of high elevation humid forest of the Bolivian Andes. Ornithological Monographs, pp.733-756.](https://doi.org/10.2307/40168314)  
