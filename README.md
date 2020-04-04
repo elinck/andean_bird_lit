@@ -10,4 +10,4 @@
 
 ### Thursday, 9 April  
 * Leader: Anna Hiller  
-* Paper: [Remsen Jr, J.V., 1985. Community organization and ecology of birds of high elevation humid forest of the Bolivian Andes. Ornithological Monographs, pp.733-756.](https://doi.org/10.2307/40168314)  
+* Paper: [Remsen, J.V. Jr. 1985. Community organization and ecology of birds of high elevation humid forest of the Bolivian Andes. Ornithological Monographs 36, 733-756.](https://doi.org/10.2307/40168314)  
