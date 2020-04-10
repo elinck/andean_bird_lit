@@ -11,3 +11,7 @@
 ### Thursday, 9 April  
 * Leader: Anna Hiller  
 * Paper: [Remsen, J.V. Jr. 1985. Community organization and ecology of birds of high elevation humid forest of the Bolivian Andes. Ornithological Monographs 36, 733-756.](https://doi.org/10.2307/40168314)  
+
+### Thursday, 16 April   
+* Leader: Jacob Drucker   
+* Paper: [Graves, G.R. 1988. Linearity of Geographic Range and Its Possible Effect on the Population Structure of  Andean Birds. The Auk 105, 47-52.](https://doi.org/10.1093/auk/105.1.47)    
