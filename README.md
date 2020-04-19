@@ -15,3 +15,7 @@
 ### Thursday, 16 April   
 * Leader: Jacob Drucker   
 * Paper: [Graves, G.R. 1988. Linearity of Geographic Range and Its Possible Effect on the Population Structure of  Andean Birds. The Auk 105, 47-52.](https://doi.org/10.1093/auk/105.1.47)    
+
+### Thursday, 23 April   
+* Leader: Glenn Seeholzer   
+* Paper: [Chapman, F.M. 1939. The Riddle of Oxyruncus. American Museum Novitates 1047, 1-4.](http://digitallibrary.amnh.org/bitstream/handle/2246/4831//v2/dspace/ingest/pdfSource/nov/N1047.pdf?sequence=1&isAllowed=y)  
