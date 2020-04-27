@@ -19,3 +19,7 @@
 ### Thursday, 23 April   
 * Leader: Glenn Seeholzer   
 * Paper: [Chapman, F.M. 1939. The Riddle of Oxyruncus. American Museum Novitates 1047, 1-4.](http://digitallibrary.amnh.org/bitstream/handle/2246/4831//v2/dspace/ingest/pdfSource/nov/N1047.pdf?sequence=1&isAllowed=y)  
+
+### Thursday, 30 April   
+* Leader: Jess Oswald   
+* Paper: [Ricklefs, R.E., Cox, G.W. 1972. Taxon Cycles in the West Indian Avifauna. The American Naturalist 106, 195-219.](https://doi.org/10.1086/282762)    
