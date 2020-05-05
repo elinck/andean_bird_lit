@@ -23,3 +23,8 @@
 ### Thursday, 30 April   
 * Leader: Jess Oswald   
 * Paper: [Ricklefs, R.E., Cox, G.W. 1972. Taxon Cycles in the West Indian Avifauna. The American Naturalist 106, 195-219.](https://doi.org/10.1086/282762)    
+  
+### Thursday, 7 May   
+* Leader: Ethan Linck   
+* Paper: [Janzen, D.H. 1967. Why Mountain Passes Are Higher In the Tropics. The American Naturalist 101, 248-249.](https://doi.org/10.1086/282487)     
+
