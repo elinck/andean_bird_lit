@@ -25,6 +25,11 @@
 * Paper: [Ricklefs, R.E., Cox, G.W. 1972. Taxon Cycles in the West Indian Avifauna. The American Naturalist 106, 195-219.](https://doi.org/10.1086/282762)    
   
 ### Thursday, 7 May   
-* Leader: Ethan Linck   
-* Paper: [Janzen, D.H. 1967. Why Mountain Passes Are Higher In the Tropics. The American Naturalist 101, 248-249.](https://doi.org/10.1086/282487)     
+* Leader: Matt Chmielewski 
+* Paper: [Janzen, D.H. 1967. Why Mountain Passes Are Higher In the Tropics. The American Naturalist 101, 248-249.](https://doi.org/10.1086/282487)    
+
+### Thursday, 14 May  
+* Leader: Glenn Seeholzer 
+* Paper: [Moore, R.P., Robinson, W.D., Lovette, I.J., Robinson, T.R. 2008. Experimental evidence for extreme dispersal limitation in tropical forest birds. Ecology Letters 11, 960-968.](https://doi.org/10.1111/j.1461-0248.2008.01196.x)     
+
 
