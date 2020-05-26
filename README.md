@@ -35,3 +35,7 @@
 ### Thursday, 21 May   
 * Leader: Ethan Linck  
 * Paper: [Fjeldså, J. The avifauna of the Polylepis woodlands of the Andean highlands: the efficiency of basing conservation priorities on patterns of endemism. Birds Conservation International 3, 37-55.](https://doi.org/10.1017/S0959270900000770)       
+
+### Thursday, 28 May    
+* Leader: Sean Anderson  
+* Paper: [Vuilleumier, F. Insular Biogeography in Continental Regions. I. The Northern Andes of South America. The American Naturalist 104, 373-388.](https://doi.org/10.1086/282671)   
