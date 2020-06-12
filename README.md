@@ -39,7 +39,7 @@
 ### Thursday, 28 May    
 * Leader: Sean Anderson  
 * Paper: [Vuilleumier, F. Insular Biogeography in Continental Regions. I. The Northern Andes of South America. The American Naturalist 104, 373-388.](https://doi.org/10.1086/282671)   
-  
+
 ### Thursday, 18 June    
 * Leader: Ethan Linck   
-* Papers: [Terborgh, J. 1977. Bird Species Diversity on an Andean Elevational Gradient. Ecology 58, 1007-1019.](https://doi.org/10.2307/1936921) *and* [Herzog, S.K., Kessler, M., Bach, K. 2005. The elevational gradient in Andean bird species richness at the local scale: a foothill peak and a high‐elevation plateau. Ecography 28, 209-222.](https://doi.org/10.1111/j.0906-7590.2005.03935.x)  
+* Papers: [Terborgh, J. 1977. Bird Species Diversity on an Andean Elevational Gradient. Ecology 58, 1007-1019](https://doi.org/10.2307/1936921) *and* [Herzog, S.K., Kessler, M., Bach, K. 2005. The elevational gradient in Andean bird species richness at the local scale: a foothill peak and a high‐elevation plateau. Ecography 28, 209-222.](https://doi.org/10.1111/j.0906-7590.2005.03935.x)  
