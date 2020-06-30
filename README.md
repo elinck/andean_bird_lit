@@ -1,3 +1,7 @@
+# Mailing List
+
+All readings and email-based chatter are now hosted through our Google group / mailing list, which you can [join here.](https://groups.google.com/g/andean-bird-discussion) 
+
 # Schedule  
 
 ### Thursday, 26 March  
