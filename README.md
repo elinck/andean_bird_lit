@@ -42,4 +42,8 @@
 
 ### Thursday, 18 June    
 * Leader: Ethan Linck   
-* Papers: [Terborgh, J. 1977. Bird Species Diversity on an Andean Elevational Gradient. Ecology 58, 1007-1019](https://doi.org/10.2307/1936921) *and* [Herzog, S.K., Kessler, M., Bach, K. 2005. The elevational gradient in Andean bird species richness at the local scale: a foothill peak and a high‐elevation plateau. Ecography 28, 209-222.](https://doi.org/10.1111/j.0906-7590.2005.03935.x)  
+* Papers: [Terborgh, J. 1977. Bird Species Diversity on an Andean Elevational Gradient. Ecology 58, 1007-1019](https://doi.org/10.2307/1936921) *and* [Herzog, S.K., Kessler, M., Bach, K. 2005. The elevational gradient in Andean bird species richness at the local scale: a foothill peak and a high‐elevation plateau. Ecography 28, 209-222.](https://doi.org/10.1111/j.0906-7590.2005.03935.x)   
+
+### Thursday, 2 July    
+* Leader: Ethan Linck   
+* Papers: [Neill, J.P., Parker, T.A. III. 1978. Responses of Birds to a Snowstorm in the Andes of Southern Peru. The Wilson Bulletin 90, 446-449](http://www.jstor.com/stable/4161097) *and* [Fjeldså, J. 1991. The activity of birds during snow-storms in high-level woodlands in Peru. Bulletin of The British Ornithologists' Club 111, 4-11.](http://biostor.org/reference/112238)  
