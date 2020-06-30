@@ -1,6 +1,6 @@
 # Mailing List
 
-All readings and email-based chatter are now hosted through our Google group / mailing list, which you can [join here.](https://groups.google.com/g/andean-bird-discussion) 
+[Email Ethan](mailto::ethanblinck@gmail.com) to be added to the list. All readings and email-based chatter are now hosted through our Google group / mailing list, which you can [see here once you're a member.](https://groups.google.com/g/andean-bird-discussion)
 
 # Schedule  
 
