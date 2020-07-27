@@ -55,3 +55,7 @@
 ### Thursday, 16 July    
 * Leader: Jessie Williamson  
 * Papers: [Projecto-Garcia, J., Natarajan, C., Moriyama, H., Weber, R.E., Fago, A., Cheviron, Z.A., Dudley, R., McGuire, J.A., Witt, C.C. Storz, J.F. 2013. Repeated elevational transitions in hemoglobin function during the evolution of Andean hummingbirds. *Proceedings of the National Academy of Sciences*, 110, 20669-20674](https://doi.org/10.1073/pnas.1315456110) *and* [Natarajan, C., Hoffmann, F.G., Weber, R.E., Fago, A., Witt, C.C., Storz, J.F. 2016. Predictable convergence in hemoglobin function has unpredictable molecular underpinnings. *Science* 354, 336-339.](https://doi.org/10.1126/science.aaf9070)(**optional!**)    
+
+### Thursday, 30 July    
+* Leader: Jacob Socolar  
+* Paper: [Londoño, G.A., Chappell, M.A., Jankowski, J.E., Robinson, S.K. 2017. Do thermoregulatory costs limit altitude distributions of Andean forest birds? *Journal of Functional Ecology*, 31, 204-215.](https://doi.org/10.1111/1365-2435.12697)  
