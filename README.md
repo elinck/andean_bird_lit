@@ -59,3 +59,7 @@
 ### Thursday, 30 July    
 * Leader: Jacob Socolar  
 * Paper: [Londoño, G.A., Chappell, M.A., Jankowski, J.E., Robinson, S.K. 2017. Do thermoregulatory costs limit altitude distributions of Andean forest birds? *Journal of Functional Ecology*, 31, 204-215.](https://doi.org/10.1111/1365-2435.12697)  
+
+### Thursday, 3 September     
+* Leader: Glenn Seeholzer  
+* Paper: [Etter, A., McAlpine, C., Possingham, H. 2008. Historical Patterns and Drivers of Landscape Change in Colombia Since 1500: A Regionalize Spatial Approach. *Annals of the Association of American Geographers*, 98, 2-23.](https://doi.org/10.1080/00045600701733911) *and* [Eraso, N.R., Armenteras-Pascual, D., Alumbreros, J.R. 2013. Land use and land cover change in the Colombian Andes: dynamics and future scenarios. *Journal of Land Use Science*, 8, 154-174.](https://doi.org/10.1080/1747423X.2011.650228)(**optional!**)   
