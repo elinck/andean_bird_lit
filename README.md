@@ -63,3 +63,7 @@
 ### Thursday, 3 September     
 * Leader: Glenn Seeholzer  
 * Paper: [Etter, A., McAlpine, C., Possingham, H. 2008. Historical Patterns and Drivers of Landscape Change in Colombia Since 1500: A Regionalize Spatial Approach. *Annals of the Association of American Geographers*, 98, 2-23.](https://doi.org/10.1080/00045600701733911) *and* [Eraso, N.R., Armenteras-Pascual, D., Alumbreros, J.R. 2013. Land use and land cover change in the Colombian Andes: dynamics and future scenarios. *Journal of Land Use Science*, 8, 154-174.](https://doi.org/10.1080/1747423X.2011.650228)(**optional!**)   
+
+### Thursday, 17 September      
+* Leader: Ethan Linck  
+* Paper: [Quintero, C.T. 2012. Birds of Empire, Bird of Nation: A History of Science, Economy, and Conservation in United States-Colombia Relations. Chapter 2, 39—87.](https://www.jstor.org/stable/10.7440/j.ctt189tt70).  
