@@ -66,4 +66,4 @@
 
 ### Thursday, 17 September      
 * Leader: Ethan Linck  
-* Paper: [Quintero, C.T. 2012. Birds of Empire, Bird of Nation: A History of Science, Economy, and Conservation in United States-Colombia Relations. Chapter 2, 39—87.](https://www.jstor.org/stable/10.7440/j.ctt189tt70).  
+* Paper: [Toro, C.Q. 2012. Birds of Empire, Bird of Nation: A History of Science, Economy, and Conservation in United States-Colombia Relations. Chapter 2, 39—87.](https://www.jstor.org/stable/10.7440/j.ctt189tt70).  
