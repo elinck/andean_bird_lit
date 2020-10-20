@@ -70,5 +70,9 @@
 
 ### Thursday, 1 October       
 * Leader: Ethan Linck   
-* Paper: [Toro, C.Q. 2012. Birds of Empire, Bird of Nation: A History of Science, Economy, and Conservation in United States-Colombia Relations. Chapter 3, 87—130.](https://www.jstor.org/stable/10.7440/j.ctt189tt70).   
+* Paper: [Toro, C.Q. 2012. Birds of Empire, Bird of Nation: A History of Science, Economy, and Conservation in United States-Colombia Relations. Chapter 3, 87—130.](https://www.jstor.org/stable/10.7440/j.ctt189tt70).  
+
+### Thursday, 22 October       
+* Leader: Jacob Drucker  
+* Paper: [Hilty, S.L. 1987. Seasonal Distribution of Birds at a Cloud-Forest Locality, the Anchicayá Valley, in Western Colombia. *Ornithological Monographs*, 48, 321—343.](https://doi.org/10.2307/40157541).   
   
