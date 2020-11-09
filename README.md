@@ -75,4 +75,7 @@
 ### Thursday, 22 October       
 * Leader: Jacob Drucker  
 * Paper: [Hilty, S.L. 1987. Seasonal Distribution of Birds at a Cloud-Forest Locality, the Anchicayá Valley, in Western Colombia. *Ornithological Monographs*, 48, 321—343.](https://doi.org/10.2307/40157541).   
-  
+
+### Thursday, 11 November       
+* Leader: Glenn Seeholzer  
+* Paper: [Moynihan, M. 1963. Inter-specific relations between some Andean birds. *Ibis*, 105, 327—339.](https://doi.org/10.1111/j.1474-919X.1963.tb02511.x).  
